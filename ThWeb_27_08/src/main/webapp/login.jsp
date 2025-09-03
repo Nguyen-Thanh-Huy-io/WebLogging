@@ -68,7 +68,7 @@
 
         <p class="text-center mt-3">
             Nếu bạn chưa có tài khoản trên hệ thống, hãy 
-            <a href="#">Đăng ký</a>
+            <a href="register">Đăng ký</a>
         </p>
     </div>
 </body>
